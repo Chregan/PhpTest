@@ -1,6 +1,7 @@
 ## PHP Programming Task
 
 In order to be considered for the PHP position, you must complete the following steps.
+Please do not use any major frameworks (Laravel, CakePHP etc.). Plain PHP, HTML and CSS is perfect.
 
 *Note: This task should take no longer than 1-2 hours at the most.*
 
